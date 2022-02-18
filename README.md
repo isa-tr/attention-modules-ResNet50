@@ -15,7 +15,7 @@ The attention can be added to an existing architecture by using modules such as 
 
 This project shows 3 different ResNet50 implementations to classify the CIFAR10 dataset and how the attention modules can improve it's performance.
 
-## Project structure
+## Project Structure
 
 - Resnet50 - Original
 
@@ -33,7 +33,7 @@ All the files required to run a jupyter notebook (google colab notebook) that tr
 
 Images generated using Grad-CAM on each model already trained.
 
-## The data
+## Dataset
 
 [CIFAR10](https://keras.io/api/datasets/cifar10/) dataset is a collection of 50.000 small images (32x32x3) labeled with 10 categories.
 
